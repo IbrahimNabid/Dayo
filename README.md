@@ -1,5 +1,4 @@
 # Dayo
-# Dayo Swift App
 
 ![Dayo](https://github.com/IbrahimNabid/Dayo/assets/79735610/ce35505a-bfd1-490e-8b86-00299ceaca86)
 
